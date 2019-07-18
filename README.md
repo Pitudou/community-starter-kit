@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Probot is an app to help users to understand many things about Github.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It help users understand Github. In this repositories, it helps new starter familiar with community. 
 
 ## Getting started
 
