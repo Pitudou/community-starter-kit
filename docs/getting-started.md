@@ -3,6 +3,7 @@
 This guide will help you get started using **welcome bot** on your own repositories. For more information on what this bot does, check out the [README](../README.md).
 
 ## Installing the bot
+## how to leave multi-line comments
 
 The bot works by providing a message on a contributor's first issue, pull request, or merged pull request. In order to scan a repository, the app must be installed on that repository. To install the app, use the following instructions:
 
